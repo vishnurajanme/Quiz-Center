@@ -2,7 +2,7 @@
 A Quiz platform with autoscoring, data visualization and certificate search
 Originally developed for Sahrdaya College of Engineering & Technolology
 
-[Sample web application](freecourses.sahrdaya.ac.in)
+[Sample web application](https://sites.google.com/view/studywithsahrdaya)
 
 ## Features
 1. Auto Score calculation
